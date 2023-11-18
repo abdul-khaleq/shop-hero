@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Montagu+Slab:opsz,wght@16..144,500&family=Montserrat:wght@500&family=Poppins:wght@400;500&display=swap');
+*{
+    font-family: Montserrat;
+}
+/* navbar section  */
+.bg-navbar {
+    background-color: #1A187A;
+    color: #fff;
+}
+
+.navbar-custom-color li a {
+    color: #fff;
+}
+
+/* Carousel section  */
+
+.slide-body h2 {
+    color: #1E046A;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.slide-body h3 {
+    color: #000;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: -0.96px;
+}
+
+.custom-button {
+    background-color: #171495;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    padding: 10px 48px;
+}
+.carousel-img{
+    margin-top: 20px;
+    width: 100%;
+    width: 100%;
+    margin-bottom: -70%;
+}
+
+
+/* category section  */
+.category {
+    background-color: #FAFAFA;
+}
+
+.category-box i {
+    font-size: 32px;
+    text-align: center;
+}
+
+.category-box h6 {
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.category-title {
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0.24px;
+}
+
+.category .container .row .col .card i {
+    font-size: 36px;
+}
+
+.custom-card {
+    background-color: #F6F6F6;
+    border: none;
+}
+
+.custom-card i {
+    color: #65666B;
+    font-size: 28px;
+}
+
+.custom-card .card-body .card-title {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.custom-card .card-body .card-text {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0.72px;
+}
+
+.products-list h6 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-right: 10px;
+    color: #8B8B8B;
+}
+
+.sales {
+    background-color: #958AD4;
+}
+
+.sale-left-img {
+    margin-left: -35%;
+}
+
+.sale-right-img {
+    margin-right: -35%;
+}
+
+.sale-title {
+    color: #25177B;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    letter-spacing: -0.72px;
+}
+
+.sale-title span {
+    color: #FFF;
+}
+
+.sale-text {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+/* footer section  */
+
+footer {
+    background-color: #0E071B;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social-icons a i {
+    color: #fff;
+    font-size: 26px;
+}
+
+.custom-list h6 {
+    color: #FFF;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 100;
+    line-height: 16px
+}
+
+.custom-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.custom-list ul li a {
+    text-decoration: none;
+    color: #CFCFCF;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 32px
+}
